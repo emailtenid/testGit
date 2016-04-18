@@ -1,0 +1,13 @@
+# .gitignore
+
+# Java class files
+*.class
+
+#Executable files
+*.exe
+
+#Object and archive files
+*.[oa]
+
+# temp sub-directory
+temp/
